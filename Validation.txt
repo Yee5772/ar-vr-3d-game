@@ -1,0 +1,1 @@
+PASS: 74 coins; 28,800 terrain triangles; collider present; 20 sky steps; jump apex 3.266667m; prefabs and materials saved.

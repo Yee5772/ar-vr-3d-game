@@ -1,0 +1,5 @@
+Source: Assets/Art/RefinedModels/Pip/Source/tripo_convert_a188b5d5-9bb0-4f08-87e3-d574c51ad61f.fbx
+Size: (3.10, 4.30, 4.31)
+Triangles (first submeshes): 168780
+Skinned renderers: 1
+Animation: 16-bone procedural Idle/Walk/Run/Jump/Fall/Land/Dash

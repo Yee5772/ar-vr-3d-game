@@ -1,0 +1,4 @@
+Pip_Game_0: 1,992,319 -> 480,325 triangles; 1,235,093 -> 476,876 vertices
+WindCoin_Game_0: 1,976,042 -> 1,139,526 triangles; 1,957,839 -> 1,537,984 vertices
+Pip_Game_0: 1,992,319 -> 168,780 triangles; 1,235,093 -> 123,795 vertices
+WindCoin_Game_0: 1,976,042 -> 218,506 triangles; 1,957,839 -> 142,389 vertices

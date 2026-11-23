@@ -1,0 +1,5 @@
+Source: Assets/Art/RefinedModels/WindCoin/Source/tripo_convert_dbc5c741-6b03-47b7-847c-870137c48870.fbx
+Size: (1.00, 1.00, 0.16)
+Triangles (first submeshes): 218506
+Skinned renderers: 0
+Animation: coin rotation
